@@ -11,7 +11,7 @@ body{
 .funParagraph {
     color: green
 } 
-h1 {
+#mainHeading {
     color: red;
     text-align: center;
 }
