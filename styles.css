@@ -1,1 +1,17 @@
 /* Write your CSS here! */
+image img {
+    width: 100%;
+    height: auto;
+}
+body{
+    padding-left: 15%;
+    padding-right: 15%;
+    margin: 8px;
+}
+#testP {
+    color: green
+} 
+#mainHeading {
+    color: red;
+    text-align: center;
+}
